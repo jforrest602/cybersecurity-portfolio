@@ -1,4 +1,4 @@
-# *Bushidō*   
+# *Chapter One: Bushidō*   
 
 I have embarked on a path that has already proven to be more difficult and more humbling than I anticipated. Recently, I quit my safe job working as an administrator at a small private university in Rhode Island and moved to a foreign country with my family. I have chosen to use my time here to try and learn new skills in information technology and cybersecurity in hopes of turning the page on my previous career and launching a new one. It is my intention with this blog to take any readers along with me as trudge through the processes of reskilling and searching for new job opportunities.      
 
