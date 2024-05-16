@@ -17,7 +17,7 @@ I have always been skeptical of technology and the promises of convenience that 
 
 So far on this journey, I have completed the Google Cybersecurity professional certificate and several smaller, online training programs. I am active on several cybersecurity related Discord servers. I attended the local BSides conference and have gone to two locally hosted 2600 meetups. I have met several seasoned experts of their respective fields that have been, at face value, supportive of my desire to enter into cybersecurity. It has been incredibly humbling. Often times I am older than the experts I meet who already have a decade or more of experience. It is intimidating. It has, on several occassions, left me doubting myself and questioning whether or not I have made the right decision. However, I also like to believe that I have the ability to do difficult things, even if I don't want to. I try to remember this when I am doubting myself. I know that I can overcome the gaps in knowledge and become a competent cybersecurity professional. It will take grit and there will be ups and downs along the way. I just need to continue to remind myself that I am not going to give up and that I will accomplish this goal.    
 
-I have set a date to take the Comptia Security+ exam which is best described as an well-known and recognized entry-level industry certification. I will write more about that exam and my preparation for it in the next post.   
+I have set a date to take the Comptia Security+ exam which is best described as a widely recognized entry-level industry certification. I will write more about that exam and my preparation for it in the next post.   
 
 _Learn from everything. Take what you want. Do good things._   
 
