@@ -19,6 +19,6 @@ So far on this journey, I have completed the Google Cybersecurity professional c
 
 I have set a date to take the Comptia Security+ exam which is best described as a widely recognized entry-level industry certification. I will write more about that exam and my preparation for it in the next post.   
 
-_Learn from everything. Take what you want. Do good things._   
+  
 
 ### *JMF*
